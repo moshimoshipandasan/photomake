@@ -1,0 +1,5 @@
+{
+  "name": "顔写真から色々な写真を作る",
+  "description": "An application that allows users to upload an image and use text prompts to edit or restyle it using the Gemini 2.5 Flash Image model. Create different versions and poses from your photos.",
+  "requestFramePermissions": []
+}
